@@ -13,3 +13,5 @@ Of course, while these tasks are running, there must be aorder. Otherwise, I wou
 Note: To open the TI-RTOS interface: While in the program, you need to right click on your cfg file and say open with XGCONF. You will click on system overview on the next screen. Click the TI-RTOS Kernel and you can easily create the structures you want here.
 
 My problem with sim800l module: The reason I couldn't progress in the SIM800l module was that I couldn't get OK feedback when I sende "AT". SIM800l module works between 3.7 and 4.2 volts I provide this voltage with use voltage regulator. I inserted the TX pin to my board's pa0 pin and the RX pin to my board's pa1 pin. I gathered the whole system on the common ground. Still the problem was not resolved.
+
+VIDEO OF THE PROJECT:   https://drive.google.com/file/d/10BwwaFCSv0uf48Vxm7yBrRXr7P9qS3kB/view?usp=sharing
