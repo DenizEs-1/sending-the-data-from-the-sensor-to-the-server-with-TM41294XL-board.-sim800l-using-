@@ -1,4 +1,5 @@
-#EQUIPMENT USED IN THE PROJECT:-
+#EQUIPMENT USED IN THE PROJECT:
+
 TM4C1294XL Evaluation Kit - Sensor Hub Booster Pack(for BMP180 Sensor and TMP006 Sensor) - Sim800l and LM2596 Voltage Regulator
 
 THE BUILDING PHASE OF THE PROJECT
