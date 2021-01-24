@@ -1,2 +1,5 @@
-# sending-the-data-from-the-sensor-to-the-server-with-TM41294XL-board.-sim800l-using-
-I take that pressure data from BMP180 sensor and temperature data from TMP006 sensor. After, send it to the server we have created via Ethernet. If our ethernet connection is broken, we use gprs via sim800l to transfer data to the server. (sim800l module part did not work !!!)
+EQUIPMENT USED IN THE PROJECT:
+TM4C1294XL Evaluation Kit - Sensor Hub Booster Pack(for BMP180 Sensor and TMP006 Sensor) - Sim800l and LM2596 Voltage Regulator
+
+THE BUILDING PHASE OF THE PROJECT
+First, we place our sensor hub in the required place on our board. Then we open an empty ccs project in the code composer studio. You can examine the codes I will explain from the httpget.c file I added.
